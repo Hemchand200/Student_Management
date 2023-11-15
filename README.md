@@ -8,8 +8,7 @@ Welcome to the Student management System! This project consists of both frontend
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Setup Instructions](#setup-instructions)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
+
 
 ## Introduction
 The Student management System comprises a frontend built with React.js and a backend developed using Java with Spring Boot. It provides users with an intuitive interface for searching Students, Adding Students, and managing their information. The backend offers RESTful APIs for adding , removing students and more.
@@ -52,7 +51,6 @@ The Student management System comprises a frontend built with React.js and a bac
 4. Build and run the application: `mvn spring-boot:run`
 5. Access the application at http://localhost:8080.
 
-## API Documentation
-Detailed API documentation can be found in the `apidoc.txt` file in the project repository. 
+
 
 
